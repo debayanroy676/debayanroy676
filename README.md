@@ -13,15 +13,23 @@ Hi! I'm Debayan, a passionate Computer Science and Engineering student with a kn
 
 ---
 
-## Skills
+## Skills 
 
 - **Java**
 - **Python**
 - **Problem Solving**
 - **Teamwork**
-- **Music**
+  
+---
+## Personality
+
+- **Musician**
+- **Sports Freak**
+- **Slightly Nerd**
+- **Chess Player**
 
 ---
+
 
 ## Achievements
 
@@ -37,6 +45,7 @@ When I'm not coding, you'll find me lost in music. I play:
 - Guitar
 - Flute
 - Violin
+- and many more
 
 ---
 
