@@ -38,17 +38,6 @@ Hi! I'm Debayan, a passionate Computer Science and Engineering student with a kn
 
 ---
 
-## Music Passion
-
-When I'm not coding, you'll find me lost in music. I play:
-- Sitar
-- Guitar
-- Flute
-- Violin
-- and many more
-
----
-
 ## Let's Connect!
 
 - [GitHub](https://github.com/debayanroy676)
